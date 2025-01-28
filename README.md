@@ -4,7 +4,7 @@
 
 - 📊 Analista de Dados da TIM Brasil
 - 🎓 Bacharelado em Engenharia da Computação e Software
-- 📲 contato: rmgthiago@gmail.com
+- 📲 Contato: rmgthiago@gmail.com
   
 
 <div>
