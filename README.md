@@ -10,7 +10,7 @@
 <div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Rios&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Rios&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)](https://github.com/juliams2210/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Rios&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)](https://github.com/Thiago-Rios/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alte="thiago-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
