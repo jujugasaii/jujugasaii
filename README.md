@@ -29,8 +29,8 @@
 
 ##
 <div> 
-  <a href = "https://www.linkedin.com/in/thiago-gonçalves-51b50a15b/"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href = "mailto:rmgthiago@gmail.com"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href = "https://www.linkedin.com/in/thiago-gonçalves-51b50a15b/"><img align="center" alte="ju-python" height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href = "mailto:rmgthiago@gmail.com"><img align="center" alte="ju-python" height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
           
 </div>
