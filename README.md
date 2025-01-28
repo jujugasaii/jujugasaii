@@ -6,7 +6,7 @@
 - 🎓 Bacharelado em Engenharia da Computação e Software
 - 📲 contato: rmgthiago@gmail.com
   
-Git, Android, Java, Python, Javascript, C#, HTML, CSS e Vue.
+Git,  C#, HTML, CSS e Vue.
 
 <div>
   
@@ -14,10 +14,13 @@ Git, Android, Java, Python, Javascript, C#, HTML, CSS e Vue.
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliams2210&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)](https://github.com/juliams2210/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alte="ju-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alte="ju-github" height="40" src="https://github.com/user-attachments/assets/d27147a3-2df0-4442-ac09-a7bdf429c660">
-  <img align="center" alte="ju-canva" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="right" alte="ju-gif" height="120" src="https://i.gifer.com/2iFb.gif">
+  <img align="center" alte="thiago-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alte="thiago-Android" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+  <img align="center" alte="thiago-java" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alte="thiago-javascript" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alte="thiago-c#" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
+  <img align="right" alte="ju-gif" height="60" src="hhttps://i.gifer.com/3ISb.gif">
 </div>
 
 ##
@@ -27,4 +30,6 @@ Git, Android, Java, Python, Javascript, C#, HTML, CSS e Vue.
 
 
   
+
+          
 </div>
