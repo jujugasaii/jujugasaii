@@ -6,7 +6,6 @@
 - 🎓 Bacharelado em Engenharia da Computação e Software
 - 📲 contato: rmgthiago@gmail.com
   
-Git,  C#, HTML, CSS e Vue.
 
 <div>
   
@@ -19,9 +18,23 @@ Git,  C#, HTML, CSS e Vue.
   <img align="center" alte="thiago-java" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alte="thiago-javascript" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alte="thiago-c#" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
+  <img align="center" alte="thiago-html" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alte="thiago-css" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alte="thiago-git" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alte="thiago-git" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+
+  
   <img align="right" alte="ju-gif" height="60" src="hhttps://i.gifer.com/3ISb.gif">
 </div>
+
+
+
+          
+        
+
+ 
+          
+
 
 ##
 <div> 
