@@ -24,7 +24,7 @@
   <img align="center" alte="thiago-git" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 
   
-  <img align="right" alte="ju-gif" height="60" src="hhttps://i.gifer.com/3ISb.gif">
+  <img align="right" alte="thiago-gif" height="200" src="https://i.gifer.com/3ISb.gif">
 </div>
 
 
